@@ -34,9 +34,9 @@ The goal is to generate actionable insights that improve learner activation and 
 
 <p align="left">
 
-<img src="https://img.shields.io/badge/Python-Programming%20Language-blue?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tableau-Data%20Visualization-orange?style=for-the-badge&logo=tableau&logoColor=white"/>
-<img src="https://img.shields.io/badge/Excel-Data%20Preparation-green?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-Programming%20Language-blue?style=for-the-badge&logo=python&logoColor=white"/>  
+<img src="https://img.shields.io/badge/Tableau-Data%20Visualization-orange?style=for-the-badge&logo=tableau&logoColor=white"/>  
+<img src="https://img.shields.io/badge/Excel-Data%20Preparation-green?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>  
 
 </p>
 
